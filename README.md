@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charline Buché</h1>
 <h3 align="center">A former marketing manager, moving towards data analysis and data science</h3>
 
-<!--
-**CharlineBuche/CharlineBuche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
